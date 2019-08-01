@@ -1,0 +1,3015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username3"
+			],
+			[
+				"us",
+				"username2"
+			],
+			[
+				"var",
+				"var_name"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"my",
+				"my_id"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"Pro",
+				"ProductForm"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"m",
+				"my_form"
+			],
+			[
+				"pr",
+				"product_detail_view"
+			],
+			[
+				"my_",
+				"my_sub_item"
+			],
+			[
+				"about",
+				"about"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"pla",
+				"plateform_software_list"
+			],
+			[
+				"gra",
+				"granted_permission"
+			],
+			[
+				"gr",
+				"granted_user"
+			],
+			[
+				"query_",
+				"query_descrition_tab"
+			],
+			[
+				"li",
+				"linux_software"
+			],
+			[
+				"id",
+				"id_fetch_cat"
+			],
+			[
+				"size",
+				"size_32bits"
+			],
+			[
+				"do",
+				"download_link_64bits"
+			],
+			[
+				"ve",
+				"version"
+			],
+			[
+				"para2",
+				"para2_heading_change_tab"
+			],
+			[
+				"para3_he",
+				"para3_heading_change_tab"
+			],
+			[
+				"para3",
+				"para3_description_change_tab"
+			],
+			[
+				"para2_des",
+				"para2_description_change_tab"
+			],
+			[
+				"para2_hea",
+				"para2_heading_change_log"
+			],
+			[
+				"para3_",
+				"para3_description_description_tab"
+			],
+			[
+				"para2_de",
+				"para2_description_description_tab"
+			],
+			[
+				"para1_de",
+				"para1_description_description_tab"
+			],
+			[
+				"para1_he",
+				"para1_heading_description_tab"
+			],
+			[
+				"para",
+				"para1_description_description_tab"
+			],
+			[
+				"para1",
+				"para1_description_change_log"
+			],
+			[
+				"vi",
+				"video_link_description_tab"
+			],
+			[
+				"pic",
+				"pic_link_description_tab"
+			],
+			[
+				"file",
+				"file_name_32bits_technical_tab"
+			],
+			[
+				"git",
+				"git_repositories_technical_tab"
+			],
+			[
+				"off",
+				"official_website_technical_tab"
+			],
+			[
+				"file_",
+				"file_name_technical_tab"
+			],
+			[
+				"th",
+				"thumbnail_link_software_list"
+			],
+			[
+				"tag",
+				"tags_software_list"
+			],
+			[
+				"siz",
+				"size_32_bits_software_list"
+			],
+			[
+				"down",
+				"download_link_32bits_software_list"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"relea",
+				"release_date_software_list"
+			],
+			[
+				"short",
+				"short_description_software_list"
+			],
+			[
+				"com",
+				"company_name_software_list"
+			],
+			[
+				"version",
+				"version_software_list"
+			],
+			[
+				"goos",
+				"goosefil_goosefile"
+			],
+			[
+				"sq",
+				"sql_update_query_change_log"
+			],
+			[
+				"para3_de",
+				"para3_description_change_log"
+			],
+			[
+				"pa",
+				"parent_id"
+			],
+			[
+				"te",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"pic_link",
+				"pic_link_reddit"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"get_data_v",
+				"get_data_vk_top"
+			],
+			[
+				"get_data_quora",
+				"get_data_quora_top"
+			],
+			[
+				"limi",
+				"limit_only"
+			],
+			[
+				"cat3",
+				"cat3_only"
+			],
+			[
+				"cat",
+				"cat_only"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"e",
+				"extension"
+			],
+			[
+				"get_da",
+				"get_data_facebook"
+			],
+			[
+				"tot",
+				"total_index"
+			],
+			[
+				"co",
+				"count_part"
+			],
+			[
+				"mysqli_",
+				"mysqli_query"
+			],
+			[
+				"foll",
+				"follower"
+			],
+			[
+				"fo",
+				"follower"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"sub",
+				"subcat3"
+			],
+			[
+				"group",
+				"group_message"
+			],
+			[
+				"gro",
+				"group_name"
+			],
+			[
+				"max",
+				"max_id"
+			],
+			[
+				"sa",
+				"saveForm"
+			],
+			[
+				"su",
+				"subcat3"
+			],
+			[
+				"submit",
+				"submit_option"
+			],
+			[
+				"platfor",
+				"plateform_name"
+			],
+			[
+				"car",
+				"cat_group"
+			],
+			[
+				"comb",
+				"combobox_dis"
+			],
+			[
+				"for",
+				"for_reddit"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"follo",
+				"follow"
+			],
+			[
+				"blog",
+				"blog-post-history"
+			],
+			[
+				"blo",
+				"blog-post-computer-science"
+			],
+			[
+				"lo",
+				"loadmore2"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"uploads",
+				"uploadssix"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"n",
+				"nowrap\twhite-space"
+			],
+			[
+				"ca",
+				"category_filter_tag_result"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"cater",
+				"category_filter"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"rela",
+				"related_category_suggest"
+			],
+			[
+				"resu",
+				"result_suggestion"
+			],
+			[
+				"TOT",
+				"total_row"
+			],
+			[
+				"RE",
+				"result_suggestion"
+			],
+			[
+				"row",
+				"row_suggestion"
+			],
+			[
+				"sho",
+				"short_description"
+			],
+			[
+				"toa",
+				"total_row_filter_count"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"software",
+				"software_list"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"verion",
+				"version_control"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"so",
+				"software_list"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"downlo",
+				"download_link_32bits"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"po",
+				"postId_views"
+			],
+			[
+				"subscribe",
+				"subscribe_email"
+			],
+			[
+				"dis",
+				"disqus_thread"
+			],
+			[
+				"di",
+				"disqus_thread"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"all"
+			],
+			[
+				"object",
+				"objects"
+			],
+			[
+				"Produc",
+				"Product"
+			],
+			[
+				"pro",
+				"product_create"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"Product",
+				"ProductForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 508,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/models.py",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/tests.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from django.shortcuts import render,get_object_or_404\n\n# Create your views here.\nfrom django.views.generic import (\n\n\t\tCreateView,\n\t\tDetailView,\n\t\tListView,\n\t\tUpdateView,\n\t\tListView,\n\t\tDeleteView\n\n)\nfrom .forms import ArticleModelForm\n\nfrom .models import Article\n\nclass ArticleListView(CreateView):\n\ttemplate_name = 'articles/article_create.html'\n\tform_class = ArticleModelForm\n\tqueryset = Article.objects.all() #<blog>/modelname>_list.html\n\n\tdef from_valid(self, form):\n\t\tprint(form.cleaned_data)\n\t\treturn super().form_valid(form)\n\n\t\t\nclass ArticleDetailListView(DetailView):\n\ttemplate_name = 'articles/article_detail.html'\n\tqueryset = Article.objects.all()\n\t# queryset = Article.objects.filter(id_gt=1) conditionanal query\n\n\n\n\tdef get_object(self):\n\t\tid_ =self.kwargs.get(\"id\")\n\t\treturn get_object_or_404(Article,id=id_)",
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/views.py",
+			"file_size": 730,
+			"file_write_time": 132040491557249399,
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register.php",
+			"settings":
+			{
+				"buffer_size": 4600,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/header-footer.css",
+			"settings":
+			{
+				"buffer_size": 21284,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/classes/Software_list.php",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/register.css",
+			"settings":
+			{
+				"buffer_size": 2919,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "privacy_policy.php",
+			"settings":
+			{
+				"buffer_size": 9778,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Slotify/includes/handlers/ajax/logout.php",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/header.php",
+			"settings":
+			{
+				"buffer_size": 16565,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/config2.php",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<?php \n\ninclude(\"includes/config.php\");\ninclude(\"includes/classes/User.php\");\n\n\n\n\n\n\n\n\nif(isset($_SESSION['userLoggedIn'])) {\n  $userLoggedIn =  $_SESSION['userLoggedIn'];\n  \n\n\n\n$id_user=$_GET['id'];\n $sql_permission = \"SELECT permission FROM software_list where id=$id_user\";\n              foreach ($con->query($sql_permission) as $row){\n               $granted_permission=$row['permission'];\n            }\n\n$granted_user='';\n $sql_user = \"SELECT id FROM users where username='$userLoggedIn'\";\n            foreach ($con->query($sql_user) as $row){\n               $granted_user=$row['id'];\n            }\n\n\n\n// echo $granted_permission;\n// echo $granted_user;\n\n\n\nif( $granted_permission == $granted_user ) {\n\n \n\n\n\n\n\n\n\n\n\n?>\n\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n  <link rel=\"shortcut icon\" href=\"assets/images/favicon.png\" type=\"image/x-icon\" />\n</head>\n<style>\n\n</style>\n\n\n<style>\n\nbody {\n  background: white;\n    transition: background-color .5s;\n}\n\n.offcanvas {\n    height: 100%;\n    width: 0;\n    top: 0;\n    left: 0;\n    background-color: #111;\n    position: fixed;\n    /*z-index: 3;*/\n    overflow-x: hidden;\n    transition: .5s;\n    padding-top: 60px;\n}\n.offcanvas a,.offcanvas2 a {\n    padding: 8px 8px 8px 32px;\n    text-decoration: none !important;\n    font-size: 25px;\n    color: #818181;\n    display: block;\n    /*transition: .3s;*/\n}\n.offcanvas a:hover, .offcanvas a:focus,.offcanvas2 a:hover{\n    color: #f1f1f1;\n}\n.closeOffcanvas {\n    position: absolute;\n    top: 0;\n    right: 25px;\n    font-size: 36px !important;\n    margin-left: 50px;\n}\n//only for full screen\n#mainContent {\n    transition: margin-left .5s;\n}\n@media screen and (max-height: 500px) {\n  .offcanvas {padding-top:15px;}\n  .offcanvas a {font-size: 18px;}\n}\n\n.sidenav5 {\n    /*height: 100%;*/\n    width: 0;\n    /*position: fixed;*/\n    /*z-index: 3;*/\n    top: 0;\n    left: 0;\n    background-color: inherit;\n    /*overflow-x: hidden;*/\n    /*transition: 0.5s;*/\n    text-align:center;\n}\n\n.sidenav5 a {\n    padding: 8px 8px 8px 32px;\n    text-decoration: none;\n    font-size: 25px;\n    color: #818181;\n    display: block;\n   /* transition: 0.3s\n*/\n}\n\n.sidenav5 a:hover{\n    color: #8190b4;\n}\n\n.sidenav5 .closebtn {\n    position: absolute;\n    top: 0;\n    right: 25px;\n    font-size: 36px !important;\n    margin-left: 50px;\n}\n\n@media screen and (max-height: 450px) {\n  .sidenav5 {padding-top: 15px;}\n  .sidenav5 a {font-size: 18px;}\n}\n\n</style>\n</head>\n<body >\n<div id=\"mainContent\">\n\n  <div id=\"myCanvasNav\" class=\"overlay3\" onclick=\"closeOffcanvas()\"></div>\n\n\n<!-- \n  //end of without animaation\n <div></div>\n  ///only for full layout -->\n\n  <div id=\"mySidenav\" class=\"sidenav5\">\n  <a href=\"javascript:void(0)\" class=\"closebtn\" onclick=\"location.href = 'index.php';\">&times;</a>\n  <div class=\"floral_image\"><!-- <img src=\"assets/images/floral.png\" alt=\"Paris\" style=\"width:50%;\"> --></div>\n\n</div>\n<!-- start of form  -->\n<!-- start of combobox selection -->\n\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style type=\"text/css\">\n  * {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  box-sizing: border-box;\n}\n\nbody {\n  padding: 20px 15%;\n}\nform header {\n  margin: 0 0 20px 0; \n}\nform header div {\n  text-align: center;\n  font-size: 90%;\n  color: #999;\n}\nform header h2 {\n  text-align: center;\n  margin: 0 0 5px 0;\n}\nform > div {\n  clear: both;\n  overflow: hidden;\n  padding: 1px;\n  margin: 0 0 10px 0;\n}\nform > div > fieldset > div > div {\n  margin: 0 0 5px 0;\n}\nform > div > label,\nlegend {\n     width: 25%;\n    float: left;\n    font-size: 16px;\n    padding-right: 10px;\n    font-weight: 550;\n}\nform > div > div,\nform > div > fieldset > div {\n  width: 71%;\n  float: right;\n}\nform > div > fieldset label {\n  font-size: 90%;\n}\nfieldset {\n  border: 0;\n  padding: 0;\n}\n\ninput[type=text],\ninput[type=email],\ninput[type=url],\ninput[type=password],\ntextarea {\n  padding: 3px;\n  width: 100%;\n  border-top: 1px solid #ccc;\n  border-left: 1px solid #ccc;\n  border-right: 1px solid #eee;\n  border-bottom: 1px solid #eee;\n}\ninput[type=text],\ninput[type=email],\ninput[type=url],\ninput[type=password] {\n  width: 50%;\n}\ninput[type=text]:focus,\ninput[type=email]:focus,\ninput[type=url]:focus,\ninput[type=password]:focus,\ntextarea:focus {\n  outline: 0;\n  border-color: #4697e4;\n}\n\n@media (max-width: 600px) {\n  form > div {\n    margin: 0 0 15px 0; \n  }\n  form > div > label,\n  legend {\n    width: 100%;\n    float: none;\n    margin: 0 0 5px 0;\n  }\n  form > div > div,\n  form > div > fieldset > div {\n    width: 100%;\n    float: none;\n  }\n  input[type=text],\n  input[type=email],\n  input[type=url],\n  input[type=password],\n  textarea,\n  select {\n    padding:3px;\n    width: 100%; \n    box-shadow: 0 2px 8px rgba(0,0,0,0.30), 0 2px 2px rgba(0,0,0,0.22);\n  }\n}\n@media (min-width: 1200px) {\n  form > div > label,\n  legend {\n    text-align: right;\n  }\n}\n</style>\n<!-- stylefor new design -->\n<style type=\"text/css\">\n.form_choice div{\n      display: inline-block;\n    border: 1px solid gray;\n    border-radius: 4px;\n    width:100%;\n    /* padding: 10px 30px 10px 20px; */\n    padding: 10px;\n    background-color: #fafafa;\n    color: #1b1a23;\n    cursor: pointer;\n    font-weight: 550;\n    font-size: 16px;\n    white-space: nowrap;\n    overflow: hidden;\n    text-overflow: ellipsis;\n}\n.select_option select, .input_field input{\n      display: inline-block;\n    border: 1px solid gray;\n    border-radius: 4px;\n    /* padding: 10px 30px 10px 20px; */\n    padding: 10px;\n    background-color: #fafafa;\n    color: #1b1a23;\n    cursor: pointer;\n    font-weight: 550;\n    font-size: 16px;\n    white-space: nowrap;\n    max-width: 100%;\n}\n\n\n\n\n\n\n\n</style>\n<?Php\n/////// Update your database login details here /////\n$dbhost_name = \"localhost\"; // Your host name \n$database = \"goosefil_goosefile\";       // Your database name\n// $database = \"plus2net\";\n$username = \"goosefil_pal\";            // Your login userid \n$password = \"Sitesking@12\";            // Your password \n//////// End of database details of your server //////\n\n\n\n\n\n\n$id_fetch_cat=$_GET['id'];\n\n\n//////// Do not Edit below /////////\ntry {\n$dbo = new PDO('mysql:host='.$dbhost_name.';dbname='.$database, $username, $password);\n} catch (PDOException $e) {\nprint \"Error!: \" . $e->getMessage() . \"<br/>\";\ndie();\n}\n?> \n<SCRIPT language=JavaScript>\nfunction reload(form)\n{\nvar val=form.cat.options[form.cat.options.selectedIndex].value; \nself.location='update.php?id='+<?php echo $id_fetch_cat ?>+'&cat=' + val ;\n}\nfunction reload3(form)\n{\nvar val=form.cat.options[form.cat.options.selectedIndex].value; \nvar val2=form.subcat.options[form.subcat.options.selectedIndex].value; \n\n\n}\n\n</script>\n</head>\n\n<body>\n  \n\n<?Php\n\nerror_reporting(E_ALL ^ E_NOTICE);\n///////// Getting the data from Mysql table for first list box//////////\n// $quer2=\"SELECT DISTINCT id,plateform_name FROM source_platform_name where  filter is null\"; \n///////////// End of query for first list box////////////\n\n/////// for second drop down list we will check if category is selected else we will display all the subcategory///// \n\n\n\n///////// Getting the data from Mysql table for first list box//////////\n$quer2=\"SELECT * FROM platform   \"; \n///////////// End of query for first list box////////////\n\n/////// for second drop down list we will check if category is selected else we will display all the subcategory///// \n\n\n\n$cat=$_GET['cat']; // This line is added to take care if your global variable is off\nif(isset($cat) and strlen($cat) > 0){\n\n\n$quer=\"SELECT * FROM software_categories where parent_id=$cat and sort_order=1 \"; \n}else{$quer=\"SELECT * FROM software_categories where parent_id=2 and sort_order=1\"; } \n////////// end of query for second subcategory drop down list box ///////////////////////////\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n// $quer=\"SELECT  * FROM software_categories where parent_id=1 and sort_order=1 \"; \n\n////////// end of query for second subcategory drop down list box ///////////////////////////\n\n\n/////// for Third drop down list we will check if sub category is selected else we will display all the subcategory3///// \n\n\n \n$quer3=\"SELECT  * FROM licence \"; \n////////// end of query for third subcategory drop down list box ///////////////////////////\n\n\n\n\n\n?>\n<!-- end of coombo box selection -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n   <form  enctype=\"multipart/form-data\" method=\"post\" action=\"includes/handlers/update_submit.php\" >\n\n  <header>\n\n    <div class=\"form_choice\"><div class=\"form2_choice\" style=\"background: lightgrey;\"><a href=\"group_invitation.php\">Submit software</a></div></div>\n    <style type=\"text/css\">\n      \n.form_choice{width: 100%;\n    display: inline-flex;\n    padding: 10px;\n\n  }\n\n    .form2_choice{\n          color: black;\n  \n    background: lightgrey;\n    padding: 2%;\n    font-size: 15px;\n    border-left: 2px solid gray;\n    box-shadow: 0 0px 1px rgba(0,0,0,0.3), 0 1px 1px rgba(0,0,0,0.2);\n\n    }\n    .form1_choice{\n    color:black;\n    font-size: 15px;\n    width: 50%;\n   padding: 2%;\n    box-shadow: skyblue;\n    box-shadow: 0 0px 1px rgba(0,0,0,0.3), 0 1px 1px rgba(0,0,0,0.2);\n      \n    }\n\n\n\n\n\n\n.form1_choice a,.form2_choice a{\n  color:inherit;\n  text-decoration: none;\n  cursor: pointer;\n}\n.form1_choice:hover a,.form2_choice:hover a{\n  text-decoration: underline;\n}\n\n    </style>\n\n    <h2>Please update your software</h2>\n<!--     <div>This form is to submit link of Whatsapp,Telegram,hike,discord,wechat,Line</div> -->\n  </header>\n  \n<!--   <div>\n    <label class=\"desc\" id=\"title1\" for=\"Field1\">Source Name:</label>\n    <div class=\"select_option\">\n<php\n      //////////        Starting of first drop downlist /////////\necho \"<select name='cat' onchange=\\\"reload(this.form)\\\"><option value=''>Select one</option>\";\nforeach ($dbo->query($quer2) as $noticia2) {\nif($noticia2['id']==@$cat){echo \"<option selected value='$noticia2[id]'>$noticia2[plateform_name]</option>\".\"<BR>\";}\nelse{echo  \"<option value='$noticia2[id]'>$noticia2[plateform_name]</option>\";}\n}\necho \"</select>\";\n//////////////////  This will end the first drop down list ///////////?>\n\n    </div>\n  </div>\n    \n  <div>\n    <label class=\"desc\" id=\"title3\" for=\"Field3\">\n      Country:\n    </label>\n    <div class=\"select_option\">\n      <php\n      //////////        Starting of second drop downlist /////////\necho \"<select name='subcat' onchange=\\\"reload3(this.form)\\\"><option value=''>Select one</option>\";\nforeach ($dbo->query($quer) as $noticia) {\nif($noticia['id']==@$cat3){echo \"<option selected value='$noticia[id]'>$noticia[name]</option>\".\"<BR>\";}\nelse{echo  \"<option value='$noticia[id]'>$noticia[name]</option>\";}\n}\necho \"</select>\";\n//////////////////  This will end the second drop down list ///////////?>\n   </div>\n  </div>\n      <div>\n    <label class=\"desc\" id=\"title3\" for=\"Field4\">\n      Category:\n    </label>\n    <div class=\"select_option\">\n      <php\n     \n//////////        Starting of third drop downlist /////////\necho \"<select name='subcat3' ><option value=''>Select one</option>\";\nforeach ($dbo->query($quer3) as $noticia) {\necho  \"<option value='$noticia[id]'>$noticia[category]</option>\";\n}\necho \"</select>\";\n//////////////////  This will end the third drop down list ///////////?>\n   </div>\n  </div> -->\n\n\n\n\n\n\n\n\n\n<?php\n\n            $id_fetch=$_GET['id'];\n\n\n\n            \n\n            $sql_software_list    = \"SELECT * FROM software_list where id=$id_fetch\";\n            foreach ($dbo->query($sql_software_list) as $row)\n            {\n\n                $Name_software_list     = $row['name'];\n                $version_software_list = $row['version'];\n                $company_name_software_list=$row['company_name'];\n                $licence_software_list=$row['licence'];\n                $download_link_64bits_software_list=$row['download_link'];\n                $short_description_software_list=$row['short_description'];\n\n                $size_64bits_software_list=$row['size'];\n                // $user_rating_software_list=$row['users_rating'];\n                $views_software_list=$row['views'];\n                $total_download_software_list=$row['total_download'];\n                $release_date_software_list=$row['release_date'];\n                $thumbnail_link_software_list=$row['thumbnail_link'];\n                $itemCategories_ID_software_list=$row['ItemCategories_ID'];\n                $tags_software_list=$row['Tags'];\n\n                $plateform_software_list=$row['platform'];\n                $download_link_32bits_software_list=$row['download_link_32bits'];\n                $version_control_software_list=$row['version_control'];\n                $size_32_bits_software_list=$row['size_32_bits'];\n\n\n                 \n                \n            }\n             $sql_technical_tab = \"SELECT * FROM technical_tab where id=$id_fetch\";\n            foreach ($dbo->query($sql_technical_tab) as $row){\n                $file_name_technical_tab     = $row['file_name'];\n                $requirements_technical_tab = $row['requirements'];\n                $language_technical_tab=$row['language_support'];\n                $website_link_technical_tab=$row['website_link'];\n                $official_website_technical_tab=$row['official_website'];\n                $git_repositories_technical_tab=$row['git_repositories'];\n                $file_name_32bits_technical_tab=$row['file_name_32_bits'];    \n                }\n\n\n                 $sql_descrition_tab = \"SELECT * FROM description_tab where id=$id_fetch\";\n            foreach ($dbo->query($sql_descrition_tab) as $row){\n                $pic_link_description_tab     = $row['pic_link'];\n                $video_link_description_tab = $row['video_link'];\n                $para1_heading_description_tab=$row['para1_heading'];\n                $para1_description_description_tab=$row['para1_description'];\n                $para2_heading_description_tab=$row['para2_heading'];\n                $para2_description_description_tab=$row['para2_description'];\n                $para3_heading_description_tab=$row['para3_heading'];    \n                $para3_description_description_tab=$row['para3_description'];    \n                $para4_heading_description_tab=$row['para4_heading'];    \n                $para4_description_description_tab=$row['para4_description'];    \n                }\n                 $sql_change_tab = \"SELECT * FROM change_tab where id=$id_fetch\";\n            foreach ($dbo->query($sql_change_tab) as $row){\n                $para1_heading_change_tab     = $row['para1_heading'];\n                $para1_description_change_tab = $row['para1_list_number'];\n                $para2_heading_change_tab=$row['para2_heading'];\n                $para2_description_change_tab=$row['para2_list_number'];\n                $para3_heading_change_tab=$row['para3_heading'];\n                $para3_description_change_tab=$row['para3_list_number'];\n                  \n                }\n        \n           \n\n\n?>\n\n\n\n\n\n\n\n<input type=\"hidden\" name=\"id_address\" value=\"<?php echo $id_fetch; ?>\">\n\n\n<div>\n    <label class=\"desc\" id=\"title7\" for=\"Field7\">\n      Plaform:\n    </label>\n    <div class=\"select_option\">\n      <?php\n   \n     //////////        Starting of first drop downlist /////////\necho \"<select name='cat' onchange=\\\"reload(this.form)\\\"><option value='\".$plateform_software_list.\"'>Select one</option>\";\nforeach ($dbo->query($quer2) as $noticia2) {\nif($noticia2['id']==@$cat){echo \"<option selected value='$noticia2[id]'>$noticia2[name]</option>\".\"<BR>\";}\nelse{echo  \"<option value='$noticia2[id]'>$noticia2[name]</option>\";}\n}\necho \"</select>\";\n//////////////////  This will end the first drop down list ///////////?>\n   </div>\n  </div>\n\n\n<div>\n    <label class=\"desc\" id=\"title7\" for=\"Field7\">\n      Category:\n    </label>\n    <div class=\"select_option\">\n      <?php\n     //////////        Starting of second drop downlist /////////\necho \"<select name='subcat' onchange=\\\"reload3(this.form)\\\"><option value='\".$itemCategories_ID_software_list.\"'>Select one</option>\";\nforeach ($dbo->query($quer) as $noticia) {\nif($noticia['id']==@$cat3){echo \"<option selected value='$noticia[id]'>$noticia[title]</option>\".\"<BR>\";}\nelse{echo  \"<option value='$noticia[id]'>$noticia[title]</option>\";}\n}\necho \"</select>\";\n//////////////////  This will end the second drop down list ///////////?>\n   </div>\n  </div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <div class=\"input_field\">\n    <label class=\"desc\" id=\"title4\" for=\"Field4\">\n       Name:\n    </label>\n    <div class=\"input_field\">\n      <input id=\"Field4\" name=\"Field4\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $Name_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n\n   <div class=\"input_field\">\n    <label class=\"desc\" id=\"title5\" for=\"Field5\">\n      version:\n    </label>\n    <div>\n      <input id=\"Field5\" name=\"Field5\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $version_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title6\" for=\"Field6\">\n     company_name:\n    </label>\n    <div>\n      <input id=\"Field6\" name=\"Field6\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $company_name_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n <div>\n    <label class=\"desc\" id=\"title7\" for=\"Field7\">\n      Licence:\n    </label>\n    <div class=\"select_option\">\n      <?php\n     \n//////////        Starting of third drop downlist /////////\necho \"<select name='subcat3' ><option value='<?php echo $licence_software_list; ?>'>Select one</option>\";\nforeach ($dbo->query($quer3) as $licence) {\necho  \"<option value='$licence[id]'>$licence[name]</option>\";\n}\necho \"</select>\";\n//////////////////  This will end the third drop down list ///////////?>\n   </div>\n  </div>\n\n\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title8\" for=\"Field8\">\n     download_link_64bits:\n    </label>\n    <div>\n      <input id=\"Field8\" name=\"Field8\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $download_link_64bits_software_list; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title9\" for=\"Field9\">\n      short_description:\n    </label>\n    <div>\n      <textarea id=\"Field9\" name=\"Field9\" type=\"text\" spellcheck=\"true\" value=\"\" tabindex=\"3\"> <?php echo $short_description_software_list; ?></textarea> \n   </div>\n  </div>\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title10\" for=\"Field10\">\n      size_64bits(MB):\n    </label>\n    <div>\n      <input id=\"Field10\" name=\"Field10\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $size_64bits_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n<!--      <div class=\"input_field\">\n    <label class=\"desc\" id=\"title11\" for=\"Field11\">\n      user_rating:\n    </label>\n    <div>\n      <input id=\"Field11\" name=\"Field11\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $user_rating_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div> -->\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title12\" for=\"Field12\">\n      Release date(yyyy-mm-dd):\n    </label>\n    <div>\n      <input id=\"Field12\" name=\"Field12\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $release_date_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n<!--   <div>\n    <label class=\"desc\" id=\"title13\" for=\"Field13\">\n      categories_ID:\n    </label>\n    <div class=\"select_option\">\n      <php\n      //////////        Starting of second drop downlist /////////\necho \"<select name='subcat' onchange=\\\"reload3(this.form)\\\"><option value=''>Select one</option>\";\nforeach ($dbo->query($quer) as $noticia) {\n\necho  \"<option value='$noticia[id]'>$noticia[title]</option>\";\n}\necho \"</select>\";\n//////////////////  This will end the second drop down list ///////////?>\n   </div>\n  </div> -->\n\n\n\n\n<!-- \n\n    <div>\n    <label class=\"desc\" id=\"title13\" for=\"Field13\">\n      categories_ID:\n    </label>\n    <div class=\"select_option\">\n      <php\n      //////////        Starting of second drop downlist /////////\necho \"<select name='subcat3' onchange=\\\"reload3(this.form)\\\"><option value=''>Select one</option>\";\nforeach ($dbo->query($quer) as $category_id) {\nif($category_id['id']==@$cat3){echo \"<option selected value='$category_id[id]'>$category_id[title]</option>\".\"<BR>\";}\nelse{echo  \"<option value='$category_id[id]'>$category_id[title]</option>\";}\n}\necho \"</select>\";\n//////////////////  This will end the second drop down list ///////////?>\n   </div>\n  </div> -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <div class=\"input_field\">\n    <label class=\"desc\" id=\"title14\" for=\"Field14\">\n      download_link_32_bits:\n    </label>\n    <div>\n      <input id=\"Field14\" name=\"Field14\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $download_link_32bits_software_list; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n\n\n\n\n\n\n\n\n  <div class=\"input_field\">\n    <label class=\"desc\" id=\"title15\" for=\"Field15\">\n      size_32_bits:\n    </label>\n    <div>\n      <input id=\"Field15\" name=\"Field15\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $size_32_bits_software_list; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n\n  <div class=\"input_field\">\n    <label class=\"desc\" id=\"title16\" for=\"Field16\">\n      tags:\n    </label>\n    <div>\n      <input id=\"Field16\" name=\"Field16\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $tags_software_list; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n\n\n\n\n\n\n     \n\n\n\n\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title20\" for=\"Field20\">\n      Select Thumbanil<sub></sub>\n    </label>\n  \n    <div>\n     <!--  your city<input type=\"text\" name=\"c\"/><br/> -->\n      <input type=\"file\" name=\"file\"  id=\"file_software_list\" required/><br/>\n    </div>\n  </div>\n\n\n     <!-- your city<input type=\"text\" name=\"c\"/><br/> -->\n     \n  <!--   <input type=\"submit\" value=\"Upload\" name=\"upload\"/> -->\n\n\n<h2>Technical tab</h2>\n\n<!-- start of technical tab -->\n     <div class=\"input_field\">\n    <label class=\"desc\" id=\"title31\" for=\"Field31\">\n      file_name_64bits:\n    </label>\n    <div>\n      <input id=\"Field31\" name=\"Field31\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $file_name_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title32\" for=\"Field32\">\n      requirement:\n    </label>\n    <div>\n      <input id=\"Field12\" name=\"Field32\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $requirements_technical_tab; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title33\" for=\"Field33\">\n      lnaguage_support:\n    </label>\n    <div>\n      <input id=\"Field33\" name=\"Field33\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $language_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title34\" for=\"Field34\">\n      website_link:\n    </label>\n    <div>\n      <input id=\"Field34\" name=\"Field34\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $website_link_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title35\" for=\"Field35\">\n      official_website:\n    </label>\n    <div>\n      <input id=\"Field35\" name=\"Field35\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $official_website_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title36\" for=\"Field36\">\n      git_repositories:\n    </label>\n    <div>\n      <input id=\"Field36\" name=\"Field36\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $git_repositories_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n  <div class=\"input_field\">\n    <label class=\"desc\" id=\"title37\" for=\"Field37\">\n      file_name_32bits:\n    </label>\n    <div>\n      <input id=\"Field37\" name=\"Field37\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $file_name_32bits_technical_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n  \n\n\n\n\n\n\n<!-- end of technical tab -->\n<h2>description</h2>\n<!-- start of description tab-->\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title40\" for=\"Field40\">\n      Select Screenshot<sub></sub>\n    </label>\n  \n    <div>\n     <!--  your city<input type=\"text\" name=\"c\"/><br/> -->\n      <input type=\"file\" name=\"file_description\" required /><br/>\n    </div>\n  </div>\n    \n\n\n\n\n\n\n<div class=\"input_field\">\n    <label class=\"desc\" id=\"title41\" for=\"Field41\">\n      video_link:\n    </label>\n    <div>\n      <input id=\"Field41\" name=\"Field41\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $video_link_description_tab; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title42\" for=\"Field42\">\n      para1_heading:\n    </label>\n    <div>\n      <input id=\"Field42\" name=\"Field42\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para1_heading_description_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title43\" for=\"Field43\">\n      para1_description:\n    </label>\n    <div>\n      <textarea  id=\"Field43\" name=\"Field43\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para1_description_description_tab; ?>\"  tabindex=\"3\"><?php echo $para1_description_description_tab; ?></textarea>\n   </div>\n  </div>\n<!--        <div class=\"input_field\">\n    <label class=\"desc\" id=\"title44\" for=\"Field44\">\n      para1_description:\n    </label>\n    <div>\n      <input id=\"Field44\" name=\"Field44\" type=\"text\" spellcheck=\"false\" value=\"\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div> -->\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title45\" for=\"Field45\">\n      para2_heading:\n    </label>\n    <div>\n      <input id=\"Field45\" name=\"Field45\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para2_heading_description_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n  <div class=\"input_field\">\n    <label class=\"desc\" id=\"title46\" for=\"Field46\">\n      para2_description:\n    </label>\n    <div>\n      <textarea id=\"Field46\" name=\"Field46\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para2_description_description_tab; ?>\" tabindex=\"3\"><?php echo $para2_description_description_tab; ?></textarea> \n   </div>\n  </div>\n    <div class=\"input_field\">\n    <label class=\"desc\" id=\"title47\" for=\"Field47\">\n      par3_heading:\n    </label>\n    <div>\n      <input id=\"Field47\" name=\"Field47\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para3_heading_description_tab; ?>\" maxlength=\"255\" tabindex=\"3\">\n   </div>\n  </div>\n    <div class=\"input_field\">\n    <label class=\"desc\" id=\"title48\" for=\"Field48\">\n      para3_description:\n    </label>\n    <div>\n      <textarea id=\"Field48\" name=\"Field48\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para3_description_description_tab; ?>\" maxlength=\"255\" tabindex=\"3\"><?php echo $para3_description_description_tab; ?></textarea> \n   </div>\n  </div>\n    <div class=\"input_field\">\n    <label class=\"desc\" id=\"title49\" for=\"Field49\">\n      para4_heading:\n    </label>\n    <div>\n      <input id=\"Field49\" name=\"Field49\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para4_heading_description_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n      <div class=\"input_field\">\n    <label class=\"desc\" id=\"title50\" for=\"Field50\">\n      para4_description:\n    </label>\n    <div>\n      <textarea id=\"Field50\" name=\"Field50\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para4_description_description_tab; ?>\"  tabindex=\"3\"><?php echo $para4_description_description_tab; ?></textarea> \n   </div>\n  </div>\n\n\n\n<!-- end of description tab -->\n<h2>change log</h2>\n<!-- start of change log  -->\n\n<div class=\"input_field\">\n    <label class=\"desc\" id=\"title51\" for=\"Field51\">\n      para1_heading_change_log:\n    </label>\n    <div>\n      <input id=\"Field51\" name=\"Field51\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para1_heading_change_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title52\" for=\"Field52\">\n      para1_description_change_log:\n    </label>\n    <div>\n      <textarea id=\"Field52\" name=\"Field52\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para1_description_change_tab; ?>\"  tabindex=\"3\"><?php echo $para1_description_change_tab; ?></textarea> \n   </div>\n  </div>\n       <div class=\"input_field\">\n    <label class=\"desc\" id=\"title53\" for=\"Field53\">\n      para2_heading_change_log:\n    </label>\n    <div>\n      <input id=\"Field53\" name=\"Field53\" type=\"textarea\" spellcheck=\"false\" value=\"<?php echo $para2_heading_change_tab; ?>\"  tabindex=\"3\"> \n   </div>\n  </div>\n  <div class=\"input_field\">\n    <label class=\"desc\" id=\"title54\" for=\"Field54\">\n      para2_description_change_log:\n    </label>\n    <div>\n      <textarea id=\"Field54\" name=\"Field54\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para2_description_change_tab; ?>\"  tabindex=\"3\"><?php echo $para2_description_change_tab; ?></textarea> \n   </div>\n  </div>\n    <div class=\"input_field\">\n    <label class=\"desc\" id=\"title55\" for=\"Field55\">\n      par3_heading_change_log:\n    </label>\n    <div>\n      <input id=\"Field55\" name=\"Field55\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para3_heading_change_tab; ?>\" maxlength=\"255\" tabindex=\"3\"> \n   </div>\n  </div>\n    <div class=\"input_field\">\n    <label class=\"desc\" id=\"title56\" for=\"Field56\">\n      para3_description_change_log:\n    </label>\n    <div>\n      <textarea id=\"Field56\" name=\"Field56\" type=\"text\" spellcheck=\"false\" value=\"<?php echo $para3_description_change_log; ?>\" tabindex=\"3\"><?php echo $para3_description_change_tab; ?></textarea> \n   </div>\n  </div>\n\n\n<!-- end of change log -->\n\n\n\n  <div>\n    <div class=\"input_field\">\n      <input id=\"saveForm\" name=\"saveForm\" type=\"submit\" value=\"Submit\">\n    </div>\n  </div>\n  \n</form>\n\n   \n   <!-- end of form content -->\n \n  \n  \n  \n <!--  //enf of full layout -->\n\n \n <!-- <button class=\"w3-btn w3-dark-grey w3-padding\" onclick=\"openNav4()\">Sidenav full-width</button><br> -->\n\n<script>\nwindow.onload = function() {\n  openNav4();\n};\n\nfunction closeOffcanvas() {\n    document.getElementById(\"myOffcanvas\").style.width = \"0%\";\n    document.getElementById(\"mainContent\").style.marginLeft= \"0%\";\n    document.body.style.backgroundColor = \"white\";\n    document.getElementById(\"myCanvasNav\").style.width = \"0%\";\n    document.getElementById(\"myCanvasNav\").style.opacity = \"0\"; \n}\nfunction openNav4() {\n    document.getElementById(\"mySidenav\").style.width = \"100%\";\n}\n\nfunction closeNav4() {\n    document.getElementById(\"mySidenav\").style.width = \"0\";\n}\n\n</script>\n\n\n\n\n</body>\n</html>\n\n\n\n<?php  \n}\nelse {\n  header(\"Location:javascript://history.go(-1)\");\n}\n\n\n\n  }\nelse {\n  header(\"Location: register.php\");\n}\n ?>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"file": "update.php",
+			"file_size": 32061,
+			"file_write_time": 132041152359702226,
+			"settings":
+			{
+				"buffer_size": 30752,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/handlers/update_submit.php",
+			"settings":
+			{
+				"buffer_size": 7732,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/handlers/insert_submit.php",
+			"settings":
+			{
+				"buffer_size": 6084,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/classes/user.php",
+			"settings":
+			{
+				"buffer_size": 639,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/config.php",
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "submit.php",
+			"settings":
+			{
+				"buffer_size": 12874,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 9979,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "insert.php",
+			"settings":
+			{
+				"buffer_size": 26955,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 23578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "software.php",
+			"settings":
+			{
+				"buffer_size": 31032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/sitesking/reddit.php",
+			"settings":
+			{
+				"buffer_size": 227107,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/sitesking/index.php",
+			"settings":
+			{
+				"buffer_size": 227063,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "msearch.php",
+			"settings":
+			{
+				"buffer_size": 35175,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/test/index.html",
+			"settings":
+			{
+				"buffer_size": 108,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/classes/Artist.php",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/search_mobi.css",
+			"settings":
+			{
+				"buffer_size": 8086,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "category.php",
+			"settings":
+			{
+				"buffer_size": 11819,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/sitesking/assets/css/header-footer.css",
+			"settings":
+			{
+				"buffer_size": 21804,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/handlers/logout.php",
+			"settings":
+			{
+				"buffer_size": 81,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/Templates/articles/article_detail.html",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/Templates/articles/article_list.html",
+			"settings":
+			{
+				"buffer_size": 207,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 356,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/forms.py",
+			"settings":
+			{
+				"buffer_size": 1077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/admin.py",
+			"settings":
+			{
+				"buffer_size": 124,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/trydjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 3229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/about.html",
+			"settings":
+			{
+				"buffer_size": 219,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/contact.html",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 2631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_list.html",
+			"settings":
+			{
+				"buffer_size": 221,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_delete.html",
+			"settings":
+			{
+				"buffer_size": 264,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_create.html",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_detail.html",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/trydjango/urls.py",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/products/urls.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/product/details.html",
+			"settings":
+			{
+				"buffer_size": 229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/pages/views.py",
+			"settings":
+			{
+				"buffer_size": 681,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/home.html",
+			"settings":
+			{
+				"buffer_size": 139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/base.html",
+			"settings":
+			{
+				"buffer_size": 370,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sanjeet/div/trydjango/src/Templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sanjeet/div/trydjango",
+		"/C/Users/sanjeet/div/trydjango/src",
+		"/C/Users/sanjeet/div/trydjango/src/blog",
+		"/C/Users/sanjeet/div/trydjango/src/blog/Templates",
+		"/C/Users/sanjeet/div/trydjango/src/blog/Templates/articles",
+		"/C/Users/sanjeet/div/trydjango/src/trydjango"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/pal/includes/classes/user.php",
+		"/C/xampp/htdocs/pal/includes/classes/Account.php",
+		"/C/xampp/htdocs/pal/includes/classes/Description_tab.php",
+		"/C/xampp/htdocs/pal/includes/config2.php",
+		"/C/xampp/htdocs/pal/includes/classes/Tab_index.php",
+		"/C/xampp/htdocs/pal/update.php",
+		"/C/xampp/htdocs/pal/includes/classes/Change_tab.php",
+		"/C/xampp/htdocs/pal/includes/classes/Constants.php",
+		"/C/xampp/htdocs/pal/includes/classes/Software_list.php",
+		"/C/xampp/htdocs/pal/includes/classes/software_categories.php",
+		"/C/xampp/htdocs/pal/includes/classes/list_input.php",
+		"/C/xampp/htdocs/pal/includes/classes/Technical_tab.php",
+		"/C/Users/sanjeet/div/trydjango/src/products/templates/products/forms.py",
+		"/C/Users/sanjeet/div/trydjango/src/trydjango/settings.py",
+		"/C/Users/sanjeet/div/trydjango/src/products/models.py",
+		"/C/Users/sanjeet/div/trydjango/src/products/admin.py",
+		"/C/Users/sanjeet/div/trydjango/src/profiles/admin.py",
+		"/C/Users/sanjeet/div/trydjango/src/profiles/models.py",
+		"/C/xampp/htdocs/pal/privacy_policy.php",
+		"/C/xampp/htdocs/sitesking/privacy_policy.php",
+		"/C/xampp/htdocs/pal/search.php",
+		"/C/xampp/htdocs/pal/includes/handlers/update_submit.php",
+		"/C/xampp/htdocs/pal/assets/css/header-footer.css",
+		"/C/xampp/htdocs/pal/assets/css/style.css",
+		"/C/xampp/htdocs/pal/insert.php",
+		"/C/xampp/htdocs/sitesking/submit.php",
+		"/C/xampp/htdocs/navbar/update_submit.php",
+		"/C/xampp/htdocs/pal/software.php",
+		"/C/xampp/htdocs/navbar/group_invitation_submit.php",
+		"/C/xampp/htdocs/pal/msearch.php",
+		"/C/xampp/htdocs/pal/includes/handlers/ajax/fetch_search_data.php",
+		"/C/xampp/htdocs/navbar/group_invitation.php",
+		"/C/xampp/htdocs/Slotify/includes/header.php",
+		"/C/xampp/htdocs/navbar/delete.php",
+		"/C/xampp/htdocs/pal/youlist.php",
+		"/D/[FreeTutorials.Us] Udemy - spotify-clone/04 Styling the registration page/037 Slotify-usernameTextboxValue/Slotify/register.php",
+		"/D/[FreeTutorials.Us] Udemy - spotify-clone/04 Styling the registration page/037 Slotify-usernameTextboxValue/Slotify/index.php",
+		"/C/xampp/htdocs/pal/includes/header.php",
+		"/C/xampp/htdocs/pal/includes/handlers/login-handler.php",
+		"/C/xampp/htdocs/pal/register.php",
+		"/C/xampp/htdocs/Slotify/register.php",
+		"/C/xampp/htdocs/pal/deleteit.php",
+		"/C/xampp/htdocs/pal/includes/config.php",
+		"/C/xampp/htdocs/pal/delete.php",
+		"/C/xampp/htdocs/pal/includes/handlers/insert_submit.php",
+		"/C/xampp/htdocs/navbar/update.php",
+		"/C/xampp/htdocs/pal/index.php",
+		"/C/xampp/htdocs/Slotify/index.php",
+		"/C/xampp/htdocs/pal/assets/js/header-footer.js",
+		"/C/xampp/htdocs/navbar/submit.php",
+		"/C/xampp/htdocs/sitesking/quora.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_youtube.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_vk_top.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_vk.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_tumblr_top.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_tumblr.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_quora.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_quora_top.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_facebook_top.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_facebook.php",
+		"/C/xampp/htdocs/sitesking/index.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_reddit_top.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_youtube_top.php",
+		"/C/xampp/htdocs/sitesking/facebook.php",
+		"/C/xampp/htdocs/pal/includes/sidebar.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/fetch_search_data.php",
+		"/C/xampp/htdocs/sitesking/assets/css/header-footer.css",
+		"/C/Windows/System32/nodeTest/node_modules/bson/browser_build/bson.js",
+		"/C/xampp/htdocs/sitesking/youlist.php",
+		"/C/xampp/htdocs/sitesking/register.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_group_invite.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_top_data_quora.php",
+		"/C/xampp/htdocs/sitesking/night_mode_ajax.php",
+		"/C/xampp/htdocs/pal/includes/handlers/ajax/search_ajax.php",
+		"/C/xampp/htdocs/sitesking/msearch.php",
+		"/C/xampp/htdocs/sitesking/Group_invitation.php",
+		"/C/xampp/htdocs/sitesking/group_invite.php",
+		"/C/xampp/htdocs/dd3/dd3.php",
+		"/C/xampp/htdocs/dd3/config.php",
+		"/C/xampp/htdocs/sitesking/tumblr.php",
+		"/C/xampp/htdocs/sitesking/vk.php",
+		"/G/htdocs/facebook.html",
+		"/C/xampp/htdocs/sitesking/includes/footer.php",
+		"/G/htdocs/tumblr.html",
+		"/C/xampp/htdocs/sitesking/onclick_data.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/ajax/get_data_reddit.php",
+		"/C/xampp/htdocs/sitesking/search_listitem.php",
+		"/C/xampp/htdocs/sitesking/search.php",
+		"/C/xampp/htdocs/pal/faq.php",
+		"/C/xampp/htdocs/sitesking/includes/header.php",
+		"/C/xampp/htdocs/sitesking/faq.php",
+		"/C/xampp/htdocs/pal/includes/ajax.js",
+		"/C/xampp/htdocs/sitesking/includes/handlers/community_link_submit.php",
+		"/C/xampp/htdocs/sitesking/includes/handlers/group_invitation_submit.php",
+		"/C/xampp/htdocs/sitesking/get_data.php",
+		"/C/xampp/htdocs/sitesking/includes/Group_invitation.php",
+		"/C/xampp/htdocs/sitesking/software.php",
+		"/C/xampp/htdocs/sitesking/index_demo.php",
+		"/C/xampp/htdocs/dd3/dd-mysqli.php",
+		"/C/xampp/htdocs/dd3/dd3ck.php",
+		"/C/xampp/htdocs/image_upload/upload.php",
+		"/D/[FreeTutorials.Us] Udemy - spotify-clone/17 Settings page/168 Slotify-full-source-code/Slotify/includes/handlers/ajax/updatePassword.php",
+		"/D/[FreeTutorials.Us] Udemy - spotify-clone/17 Settings page/168 Slotify-full-source-code/Slotify/includes/config.php",
+		"/C/xampp/htdocs/sitesking/includes/community.php",
+		"/D/[FreeTutorials.Us] Udemy - spotify-clone/17 Settings page/168 Slotify-full-source-code/Slotify/includes/handlers/ajax/createPlaylist.php",
+		"/C/xampp/htdocs/Slotify/includes/handlers/register-handler.php",
+		"/C/xampp/htdocs/image_upload/index.php",
+		"/C/xampp/htdocs/sitesking/includes/upload.php",
+		"/C/xampp/htdocs/dd3/config-mysqli.php",
+		"/C/Users/sanjeet/Downloads/dd3/dd3/config.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/page.php",
+		"/G/htdocs/top popular sites user.html",
+		"/C/xampp/htdocs/chatbox/add_comment.php",
+		"/C/Users/sanjeet/Desktop/test.html",
+		"/C/Users/sanjeet/Desktop/day and neight.html",
+		"/C/xampp/htdocs/pal/category.php",
+		"/C/xampp/htdocs/goosefile/includes/header.php",
+		"/C/Users/sanjeet/Desktop/BasicRouter.js",
+		"/C/Users/sanjeet/Desktop/hellonode.js",
+		"/G/htdocs/top user.html",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/page-templates/page-nosidebars.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/template-parts/content-page.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/template-parts/content.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/index.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/single.php",
+		"/C/xampp/htdocs/wordpress0012/wp-content/themes/fblogging/template-parts/content-none.php",
+		"/G/htdocs/Quora.html",
+		"/G/htdocs/Quora2.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			"C:\\hello\\product\\prod\\Templates",
+			"C:\\hello\\Templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"software",
+			"form",
+			"assets",
+			"artwork",
+			"assets",
+			"artwork",
+			"para4",
+			"com",
+			"con",
+			".offcanvas",
+			"relate",
+			"contact",
+			"contan",
+			"40%",
+			"inputContainer",
+			"#inputContainer",
+			"%}",
+			"submit",
+			"sumit",
+			"plateform",
+			".privacy-policy p",
+			"software",
+			"submit",
+			" .sidemenu-first-group",
+			"#mainContent .offcanvas .sidemenu-first-group",
+			"quer",
+			"username",
+			"hidden",
+			".sidenav5",
+			"id",
+			"fieldset ",
+			"form > div > div, form > div > fieldset >",
+			"form > div > div, form > div > fieldset > div",
+			"description",
+			"name",
+			"form",
+			"}",
+			"parent_id",
+			".sidenav5",
+			"tum",
+			"group",
+			".offcanvas",
+			".offcanvas\n",
+			"\t\t\n",
+			"logo",
+			"quora",
+			"root",
+			".form-group",
+			"over",
+			"personal",
+			"personl",
+			"http",
+			".offcanvas",
+			"100",
+			"10",
+			"h1",
+			"autowide",
+			".post_detail_header_image",
+			".post_detail_header",
+			"area",
+			".google-sidebar-ads",
+			"result",
+			"flora",
+			".sidenav5",
+			"http://localhost/sitesking/includes/handlers/ajax/get_data_reddit1.php",
+			".sidemenu-second-group .dropbtn",
+			".offcanvas s",
+			".offcanvas a",
+			"quora",
+			"pal-scroll",
+			"flag+=10",
+			"form > div > label",
+			"form > div > label, legend",
+			"201",
+			"cat3",
+			"cat",
+			"cat3",
+			"select",
+			"h1",
+			"dropdown_button",
+			"content",
+			".dropdown_button",
+			">\n",
+			"dropdown_sort",
+			"result_found_section",
+			"dropdown_sort",
+			"result_filter_right",
+			"result_found_section",
+			"dropdown_button",
+			"result_found",
+			"group_invite",
+			"get_data_facebook",
+			"400",
+			"344",
+			">\n",
+			"344",
+			"343",
+			"342",
+			"341",
+			"340",
+			"339",
+			"338",
+			"337",
+			"336",
+			"335",
+			"334",
+			"333",
+			"332",
+			"331",
+			"431",
+			"330",
+			"329",
+			"328",
+			"327",
+			"326",
+			"325",
+			"324",
+			"323",
+			"},\n",
+			"322",
+			"321",
+			"320",
+			"319",
+			"318",
+			"317",
+			"316",
+			"315",
+			"314"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"con",
+			"com",
+			"parent_id_name",
+			"flag+=15",
+			"country",
+			"source",
+			"get_data_youtube",
+			"444",
+			"443",
+			"442",
+			"441",
+			"440",
+			"439",
+			"438",
+			"437",
+			"436",
+			"435",
+			"434",
+			"433",
+			"432",
+			"431",
+			"430",
+			"429",
+			"428",
+			"427",
+			"426",
+			"425",
+			"424",
+			"423",
+			"422",
+			"421",
+			"420",
+			"419",
+			"418",
+			"417",
+			"416",
+			"415",
+			"414",
+			"413",
+			"412",
+			"411",
+			"410",
+			"409",
+			"408",
+			"407",
+			"406",
+			"405",
+			"404",
+			"403",
+			"402",
+			"401",
+			"400",
+			"438",
+			"437",
+			"436",
+			"435",
+			"434",
+			"433",
+			"432",
+			"431",
+			"430",
+			"429",
+			"428",
+			"427",
+			"426",
+			"425",
+			"424",
+			"423",
+			"422",
+			"421",
+			"420",
+			"419",
+			"418",
+			"417",
+			"416",
+			"415",
+			"414",
+			"413",
+			"412",
+			"411",
+			"410",
+			"409",
+			"408",
+			"407",
+			"406",
+			"405",
+			"404",
+			"403",
+			"402",
+			"401",
+			"400",
+			"get_data_tumblr",
+			"get_data_facebook",
+			"739",
+			"738",
+			"737",
+			"7337",
+			"740",
+			"739",
+			"738",
+			"737",
+			"736",
+			"735",
+			"734",
+			"733",
+			"732",
+			"731",
+			"730",
+			"729",
+			"728",
+			"727",
+			"726",
+			"725",
+			"724",
+			"723",
+			"722",
+			"721",
+			"720",
+			"719",
+			"720",
+			"719",
+			"718",
+			"717",
+			"716",
+			"715",
+			"714",
+			"712",
+			"711"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 23,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/tests.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/header-footer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5868,
+								5868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4053.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "includes/classes/Software_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/css/register.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 622.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "privacy_policy.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1914,
+								1918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/Slotify/includes/handlers/ajax/logout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "includes/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "includes/config2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "update.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8400,
+								8387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "includes/handlers/update_submit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5255,
+								5271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "includes/handlers/insert_submit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4149,
+								4149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "includes/classes/user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 639,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "includes/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "submit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11513,
+								11521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7901.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "includes/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "insert.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "software.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2447,
+								2464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/xampp/htdocs/sitesking/reddit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219817,
+								219817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 97080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/xampp/htdocs/sitesking/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 227063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219774,
+								219774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 97331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "msearch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4292,
+								4311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/test/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "includes/classes/Artist.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "assets/css/search_mobi.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4891.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "category.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7580,
+								7580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/C/xampp/htdocs/sitesking/assets/css/header-footer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18255,
+								18255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 15588.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "includes/handlers/logout.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/Templates/articles/article_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/Templates/articles/article_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/C/Users/sanjeet/div/trydjango/src/blog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/C/Users/sanjeet/div/trydjango/src/trydjango/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2161,
+								2175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_delete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_create.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/templates/products/product_detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "/C/Users/sanjeet/div/trydjango/src/trydjango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "/C/Users/sanjeet/div/trydjango/src/products/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/product/details.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "/C/Users/sanjeet/div/trydjango/src/pages/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "/C/Users/sanjeet/div/trydjango/src/Templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 70.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
