@@ -18,11 +18,11 @@ function get_row_count(){
 					if(!$cos){
 						die('Failed to connect');
 					}
-				$sql="SELECT COUNT(*) as rows from software_list where itemcategories_id='$id'";
+				$sql="SELECT COUNT(*) as row from software_list where ItemCategories_ID='$id'";
 				$result=mysqli_query($cos,$sql);
 				if(mysqli_num_rows($result)>0){
 					$row=mysqli_fetch_assoc($result);
-					$list= $row['rows'];
+					$list= $row['row'];
 					return $list;
 				}
 				return 0;

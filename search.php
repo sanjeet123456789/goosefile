@@ -22,7 +22,7 @@ function get_row_count(){
 					if(!$cos){
 						die('Failed to connect');
 					}
-				$sql="SELECT count(*) as rows FROM software_list WHERE (name like '%$term[0]%' or Tags like '%$term[0]%' ) and id IN (
+				$sql="SELECT count(*) as row FROM software_list WHERE (name like '%$term[0]%' or Tags like '%$term[0]%' ) and id IN (
 					    SELECT MAX(id)
 					    FROM software_list
 					    GROUP BY version_control
@@ -36,7 +36,7 @@ function get_row_count(){
 				$result=mysqli_query($cos,$sql);
 				if(mysqli_num_rows($result)>0){
 					$row=mysqli_fetch_assoc($result);
-					$list= $row['rows'];
+					$list= $row['row'];
 					
 					return $list;
 				}

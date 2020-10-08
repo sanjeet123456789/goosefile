@@ -13,12 +13,12 @@ include("includes/classes/User.php");
 
 
 if(isset($_SESSION['userLoggedIn'])) {
-  // $con = mysqli_connect("localhost", "goosefil_pal", "Sitesking@12", "goosefil_goosefile");
+   $con = mysqli_connect("localhost", "goosefil_pal", "Sitesking@12", "goosefil_goosefile");
 
-  // $userLoggedIn = new User($con,$_SESSION['userLoggedIn']);
-  // $username = $userLoggedIn->getUsername();
-  // echo "<script>userLoggedIn = '$username';</script>";
-  
+  $userLoggedIn = new User($con,$_SESSION['userLoggedIn']);
+  $username = $userLoggedIn->getUsername();
+  echo "<script>userLoggedIn = '$username';</script>";
+ 
 }
 else {
   header("Location: register.php");
